@@ -4,13 +4,6 @@
 
 `Three.js` based front-end `WebGL` page development collection, you can view the development instructions and knowledge points summary of the current page in `README.md` in the corresponding directory of `src/containers`.
 
-> preview available
-
-* <https://dragonir.github.io/3d/>
-* <https://3d-dragonir.vercel.app/>
-
-> Run Example
-
 ### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
